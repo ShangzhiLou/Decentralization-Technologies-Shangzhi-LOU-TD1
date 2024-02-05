@@ -48,7 +48,7 @@ def blue_door_room():
         print("Leave it alone. Press '2'")
         choice = input("> ")
 
-        if choice == "1":
+        if choice = "1":
             print("Let's see what's in here... /grins")
             print("The chest creaks open, and the guard is still sleeping. That's one heavy sleeper!")
             print("You find some")
