@@ -61,6 +61,24 @@ Once you have finished making your changes, open a pull request to the project's
 
 The project maintainers will review your pull request. If necessary, you may be asked to make changes. Once your pull request is approved, it will be merged into the master branch.
 
+Please follow these steps:
+
+1. Fork the repository to your GitHub account.
+2. Clone the forked repository to your local machine.
+3. Create a new branch for your changes:
+
+    ```bash
+    git checkout -b feature/your-feature-name
+4. Make your changes and commit them:
+
+    ```bash
+    git commit -m "Add your commit message here"
+5. Push your changes to your forked repository:
+    ```bash
+    git push origin feature/your-feature-name
+6. Create a pull request from your forked repository to the original repository.
+7. Wait for your pull request to be reviewed and merged.
+
 Thank you for contributing to the project!
 
 # License and Copyright
